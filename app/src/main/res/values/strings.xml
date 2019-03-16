@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpendingTracker</string>
+    <string name="title_account_details">Account details</string>
+    <string name="account_balance">Account balance</string>
+    <string name="available_funds">Available funds</string>
+    <string name="atm_location_img_desc">atm location</string>
+    <string name="title_activity_find_us">Map</string>
+    <string name="title_find_us">Find us</string>
+    <string name="errorString">Error occurred while getting account data!</string>
+    <string name="back_arrow">imge_desc_back_arror</string>
+    <string name="imge_desc_app_logo">app_logo</string>
+    <string name="img_desc_accoun_image">accoun_image</string>
+</resources>
